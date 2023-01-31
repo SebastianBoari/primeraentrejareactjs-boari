@@ -1,5 +1,6 @@
 import CartWidget from "./CartWidget"
 
+
 function NavBar(props) {
   return (
     <nav id="navBar">
@@ -21,6 +22,5 @@ function NavBar(props) {
   )
 }
 
-NavBar.propTypes = {}
 
 export default NavBar

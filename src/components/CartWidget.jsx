@@ -1,6 +1,6 @@
 import React from 'react'
 
-// Al profe se le complico la parte de la direccion de la imagen porque todas las direcciones son en relativas al index.html, no al archivo jsx xd
+// Yo use la ruta relativa al index.html para el src de la img, no se si esta bien porque vi que lo hacian con import y con constantes en el after
 const CartWidget = () => {
   return (
     <>
